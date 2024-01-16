@@ -1,0 +1,39 @@
+body {
+    background: black;
+}
+div.post-header {
+    background: white;
+    padding: 5px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+div.post-header img {
+    width: 25px;
+    margin: auto;
+    margin-left: 10px;
+}
+div.post-header h1, h2 {
+    font-size: 15px;
+    margin: 5px;
+}
+div.dots-vertical {
+    margin-left: 77%;
+}
+div.post-img {
+    background: white;
+    width: 100%;
+}
+div.post-body {
+    background: white;
+    padding: 10px;
+}
+div.post-icon {
+    display: flex;
+    justify-content: space-between;
+    font-size: 120%;
+}
+div.post {
+    width: 600px;
+    margin: auto;
+}
